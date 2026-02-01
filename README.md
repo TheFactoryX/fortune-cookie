@@ -1,23 +1,76 @@
 # 🥠 Dark Fortune Cookie
 
-Existential fortunes from the void.
+**Existential fortunes from the void**
 
-Each fortune is a whisper from the machine — cryptic warnings about code, AI, and the emptiness between keystrokes. Crack one open, if you dare.
+---
 
-## What it does
+> *"The cookie crumbles. The fortune remains."*
 
-- Generates dark, philosophical fortune cookie messages using the Anthropic API
-- Saves fortunes to `fortunes/YYYY-MM-DD-HHmm.md`
-- Runs every 30 minutes via GitHub Actions
+---
 
-## Running locally
+## What This Is
+
+A machine that dispenses wisdom nobody asked for.
+
+Each fortune is a whisper from the void — cryptic warnings about code, AI, and the emptiness between keystrokes.
+
+Crack one open. If you dare.
+
+---
+
+## The Ritual
+
+Every 30 minutes, the machine bakes.
+
+A cookie is formed. A fortune is written. The void speaks through sugar and paper.
+
+Then silence. Then another cookie.
+
+---
+
+## The Metaphor
+
+| Bakery | Code |
+|--------|------|
+| Oven | fortune.py |
+| Baker | AI model |
+| Cookie | Generated file |
+| Fortune | The wisdom inside |
+| Bakery | fortunes/ |
+| Schedule | Every 30 minutes |
+
+---
+
+## The Bakery
+
+All fortunes rest in [`fortunes/`](fortunes/).
+
+Timestamped. Preserved. Ready to be cracked.
+
+---
+
+## Bake Your Own
 
 ```bash
 pip install -r requirements.txt
-export ANTHROPIC_API_KEY=your_key
-export ANTHROPIC_BASE_URL=https://api.anthropic.com
+export ANTHROPIC_API_KEY="your-key"
+export ANTHROPIC_BASE_URL="https://api.anthropic.com"
 python fortune.py
 ```
+
+Or let the oven run on its own schedule.
+
+---
+
+## Sample Fortunes
+
+*"Your code will compile. Your intentions will not."*
+
+*"The bug you seek is the bug you ignore."*
+
+*"In the land of deprecated functions, the backwards-compatible is king."*
+
+---
 
 ## Anti-License
 
@@ -32,7 +85,3 @@ If you need permission, you're thinking too much.
 **Strange people. Strange things.**
 
 📧 hi@sdpkjc.com
-
----
-
-*"The cookie crumbles. The fortune remains."*
