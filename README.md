@@ -1,5 +1,11 @@
 # 🥠 Dark Fortune Cookie
 
+[![ANTI-LICENSE](https://img.shields.io/badge/ANTI--LICENSE-STEAL_THIS-000000?style=for-the-badge&labelColor=dc143c)](LICENSE)
+[![Machine Status](https://img.shields.io/github/actions/workflow/status/TheFactoryX/fortune-cookie/fortune.yml?style=flat-square&label=baker)](https://github.com/TheFactoryX/fortune-cookie/actions)
+[![GitHub Stars](https://img.shields.io/github/stars/TheFactoryX/fortune-cookie?style=flat-square&logo=github)](https://github.com/TheFactoryX/fortune-cookie/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/TheFactoryX/fortune-cookie?style=flat-square)](https://github.com/TheFactoryX/fortune-cookie/commits)
+[![TheFactoryX](https://img.shields.io/badge/TheFactoryX-black?style=flat-square&logo=github)](https://github.com/TheFactoryX)
+
 **Existential fortunes from the void**
 
 ---
@@ -69,6 +75,12 @@ Or let the oven run on its own schedule.
 *"The bug you seek is the bug you ignore."*
 
 *"In the land of deprecated functions, the backwards-compatible is king."*
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=TheFactoryX/fortune-cookie&type=Date)](https://star-history.com/#TheFactoryX/fortune-cookie&Date)
 
 ---
 
